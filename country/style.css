@@ -1,0 +1,29 @@
+img{
+    width: 100%;
+}
+.my-bg-1{
+    background-color: rgba(43, 150, 226, 0.52);
+}
+.my-shadow{
+    box-shadow:0px 0px 15px rgb(237, 192, 87);
+}
+active{
+    font-weight: 900;
+}
+[class*=col]{
+    padding: 20px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
