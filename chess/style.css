@@ -1,0 +1,114 @@
+img{
+    width: 100%;
+}
+.my-list{
+    background-color: rgb(3, 3, 255);
+}
+html{
+    scroll-behavior: smooth;
+}
+.nav-link{
+    color: black;
+    font-size: 1.2rem;
+}
+
+.navbar{
+background-color: #ddddddee;
+box-shadow: 0px 3px 5px black;
+}
+h2{
+    text-align: center;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+}
+h1, h2, h3{
+    font-family: 'Playfair Display', serif;
+
+}
+p{
+    font-family: 'Yeseva One', cursive;;
+}
+
+/* для нижньої панелі */
+.footer {
+    background-color: #02052b;
+    padding: 30px 0;
+    margin-top: 50px;
+}
+
+.socio-link {
+    font-size: 2rem;
+    color: #d5d5d5;
+    margin: 10px;
+}
+
+.socio-link:hover {
+    color: white;
+    
+}
+.footer p{
+    color: #d5d5d5;
+}
+.my-card-2{
+    box-shadow: 0px 10px 3px 5px rgb(191, 198, 245);
+            letter-spacing: 0.15em;
+            
+            
+                height: 100%;
+text-align: center;
+}
+.my-card-2 .card-title{
+    font-size: 1.1rem;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(72, 79, 122);
+font-family: 'Montserrat Alternates', sans-serif;
+text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+}
+.my-card-2 img{
+    
+    width: 70%;
+}
+.col-md-3{
+    padding: 20px;
+}
+.fon-chess{
+    height: 120px;
+   margin: 30px 0;
+
+    background-image: url(фон1.jpg);
+}
+.fon-chess-3{
+    height: 100px;
+   margin: 30px 0;
+    background-image: url(фон3.webp);
+}
+.fon-2{
+    background-image: url(фон2.avif);
+    padding: 50px 0;
+    margin: 90px 0;
+}
+#ruls{
+    background-color: #ffffffae;
+    
+font-family: 'PT Sans Caption', sans-serif;
+ 
+
+    font-weight: 500;
+font-size: 1.1rem;
+}
+
+/* 
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+font-family: 'Jost', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'PT Sans Caption', sans-serif;
+font-family: 'Russo One', sans-serif;
+font-family: 'Yeseva One', cursive;
+
+
+
+*/
